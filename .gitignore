@@ -5,6 +5,7 @@ node_modules/
 pdfs/
 docx/
 .vagrant/
+.vs/
 
 ##ignore image resize service cache files
 source/TycheServices/ImageResizeService/imagecache/*
